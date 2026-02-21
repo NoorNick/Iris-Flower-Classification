@@ -4,7 +4,7 @@ This repository contains a complete example of classifying Iris flowers using th
 
 ---
 
-## 🚀 Features
+## Features
 
 - Loads the famous Iris dataset
 - Splits data into training and testing sets
@@ -16,7 +16,7 @@ This repository contains a complete example of classifying Iris flowers using th
 
 ---
 
-## 🛠️ How to Run
+## How to Run
 
 1. Clone the repository:
 
@@ -41,7 +41,5 @@ jupyter notebook
 Then open Iris_flower_classification.ipynb and run the cells.
 
 ---
-## 📊 Output Example
+## Output Example
 The notebook/script prints model accuracy, classification reports, predicted classes for new flowers, and shows a PCA scatter plot of the data.
-
-Happy Flower Classifying! 🌷🌼🌻
